@@ -53,9 +53,9 @@ bash
 
 Installation
 
-    Clone the Repository
+Clone the Repository
 
-    bash
+bash
 
 	git clone https://github.com/yourusername/portcatcher.git
 
@@ -69,7 +69,7 @@ Make the Script Executable
 
 bash
 
-    	chmod +x portcatcher.sh
+    chmod +x portcatcher.sh
 
 Contributing
 
