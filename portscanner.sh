@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo "===================================================="
+echo "                 PortCatcher v1.0                    "
+echo "===================================================="
+
 function help() {
     echo "Usage: ./script.sh [-t 192.168.0.2 -p 22,21,3306 | -p-] [-sn target_to_ping] [-sv]"
     echo ""
